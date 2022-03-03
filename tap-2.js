@@ -1,0 +1,1 @@
+console.log("Hello world!"); // Viet "Hello world!" ra console
